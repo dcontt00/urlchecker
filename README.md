@@ -1,4 +1,4 @@
-# Comprobar URLs
+# URL Checker
 Programa para comprobar que las URLs existen y son accesibles.
 
 ## How to create .exe
